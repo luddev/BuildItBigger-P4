@@ -27,7 +27,7 @@ You will learn the role of Gradle in building Android Apps and how to use Gradle
 
 ##How Do I Complete this Project?
 
-### Step 0: Starting Point
+### Step 0: Starting Point - DONE
 
 This is the starting point for the final project, which is provided to you in the [course repository](https://github.com/udacity/ud867/tree/master/FinalProject).
 It contains an activity with a banner ad and a button that purports to tell a
@@ -91,7 +91,7 @@ dependencies you can) from the paid flavor.
 
 To exceed expectations, do the following:
 
-### Add Interstitial Ad  
+### Add Interstitial Ad  - DONE
 
 Follow these instructions to add an interstitial ad to the free version.
 Display the add after the user hits the button, but before the joke is shown.
